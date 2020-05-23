@@ -2,7 +2,7 @@ pyopenapi
 =========
 
 [![Build Status](https://travis-ci.org/pyopenapi/pyopenapi.svg?branch=master)](https://travis-ci.org/pyopenapi/pyopenapi)
-[![Coverage Status](https://coveralls.io/repos/pyopenapi/pyopenapi/badge.svg?branch=master&style=flat)](https://coveralls.io/r/mission-liao/pyopenapi?branch=master)
+[![Coverage Status](https://coveralls.io/repos/pyopenapi/pyopenapi/badge.svg?branch=master&style=flat)](https://coveralls.io/r/pyopenapi/pyopenapi?branch=master)
 
 A python client for [Swagger](https://helloreverb.com/developers/swagger) enabled REST API. It wouldn't be easier to
 try Swagger REST API by [Swagger-UI](https://github.com/wordnik/swagger-ui). However, when it's time to **unittest**
